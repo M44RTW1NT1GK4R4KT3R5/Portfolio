@@ -1,0 +1,86 @@
+h3 {
+	color: #04567F;
+}
+h5 {
+	color: #04567F;
+}
+body{
+	background-color: #e3e3e3;
+}
+section {
+	background-color: #072433;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+section h2 {
+	text-align: center;
+	color: white;
+	padding-bottom: 15px;
+}
+section p {
+	text-align: center;
+	color: white;
+	padding-bottom: 15px;
+}
+section img {
+	height: 150px !important;
+	margin: auto;
+	border: 3px solid #fff;
+}
+table {
+	width: 50%;
+}
+.sidebar {
+	background-color: #fff;
+}
+.header {
+	background-color: #fff;
+}
+.panel-heading {
+	height: 220px;
+	background-size: cover;
+}
+.panel-profile-img {
+	margin-top: -70px;
+	margin-bottom: 5px;
+	border: 3px solid #fff;
+	border-radius: 100%;
+	float: left;
+}
+.progress-bar {
+	background-color: #8C121E;
+}
+.about {
+	padding-top: 20px;
+}
+#aboti {
+	font-size: 40px;
+}
+.mail {
+	padding-left: 35px;
+}
+.fa {
+	float: left;
+	width: 40px;
+	font-size: 30px;
+	color: #04567F;
+}
+#book {
+	float: right;
+	font-size: 25px;
+	width: 280px;
+}
+.vlag {
+	width: 55px;
+	height: 35px;
+}
+.scholen {
+	width: 95px;
+	float: left;
+	margin-right: 35px;
+}
+/*#072433 (Donker blauw)
+#04567F (Licht blauw)
+#8C121E (Rood)
+#4C4A0A (Goud)
+#CCC610 (Geel)*/
